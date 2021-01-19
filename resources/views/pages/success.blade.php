@@ -1,6 +1,6 @@
 @extends('layouts.success')
 
-@section('title', 'Gallery Real Project')
+@section('title', 'Thank You')
 
 @section('content')
 <main>
@@ -16,7 +16,7 @@
             proyek nyata mahasiswa Perjalanan Wisata
             <br />
             <br />
-            Segera konfirmasi dan kirim bukti pembayaran untuk memproses dukungan Anda
+            Segera konfirmasi pada nomer yang tertera pada trip/event pilihan Anda dan kirim bukti pembayaran untuk memproses dukungan Anda
           </h5>
         </div>
         <section class="d-flex justify-content-center my-lg-0 btn-margin">
